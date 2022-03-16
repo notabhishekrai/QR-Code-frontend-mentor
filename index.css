@@ -30,7 +30,8 @@ body {
   width: 100%;
 }
 
-p {
+p,
+h1 {
   width: 220px;
   margin: auto;
 }
